@@ -7,7 +7,7 @@ html, body {
 
 html {
   font-size: 10px;
-  background-color: #a9a9a9;
+  background-color: #7AE7FF;
 }
 
 body {
@@ -136,3 +136,23 @@ aside img {
 footer {
   margin-top: 10px;
 }
+
+/* font change of header's h1 h2 h3 # option1*/
+
+header h1, header h2, header h3 {
+  font-family: 'McLaren', cursive;
+  color: #2a2a2a;
+}
+
+img {
+  height: auto;
+}
+
+/* option 2
+
+h1, h2, h3 {
+  font-family: 'McLaren', cursive;
+  color: #2a2a2a;
+} */
+
+
